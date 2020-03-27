@@ -3,7 +3,7 @@
   "no-found-related": "Related %{link} not found",
   "please-contact": "Please contact %{user} to initialize the comment",
   "init-issue": "Init Issue",
-  "leave-a-comment": "Leave a comment",
+  "leave-a-comment": "Leave a comment, markdown is supported",
   "preview": "Preview",
   "edit": "Edit",
   "comment": "Comment",
