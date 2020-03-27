@@ -1,6 +1,6 @@
 {
-  "name": "@twomeetings/gitalk",
-  "version": "1.6.2",
+  "name": "twomeetings-gitalk",
+  "version": "1.6.3",
   "description": "A comment plugin base on GitHub issues, forked from gitalk",
   "keywords": [
     "comment",
